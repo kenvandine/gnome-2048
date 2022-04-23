@@ -1,4 +1,4 @@
-# gnome-2048
+# gnome-2048 
 
 *[![gnome-2048](https://snapcraft.io/gnome-2048/badge.svg)](https://snapcraft.io/gnome-2048)
 [![gnome-2048](https://snapcraft.io/gnome-2048/trending.svg?name=0)](https://snapcraft.io/gnome-2048)*
